@@ -12,21 +12,27 @@ These badges help to give quick indication of the type of topic and often provid
 
 [![Email-Support](https://img.shields.io/badge/Email-DIAMONDS%20Support-white?logo=maildotru&logoColor=white)](mailto:support.diamonds@tno.nl "Sent email to DIAMONDS Support") The white "Email" badges with @ icon link to an email-adress (and when clicking the badge your email application will open to help you sent an email).
 
-[![Asset - Tool](https://img.shields.io/badge/Asset--Type-Tool-Red?logo=academia&logoColor=red&color=red)](tags "Asset-Type = Online Tool") The red "Asset-Type" badges indicate what type of digital asset a topic is about. The possible options are "data", "model", "tool" or more specifically "dataset", "database", "AI", "ML", "Online Tool", "Local Tool".
+[![Asset - Tool](https://img.shields.io/badge/Asset--Type-Tool-Red?logo=academia&logoColor=red&color=red)](asset_tool "Asset-Type = Online Tool") The red "Asset-Type" badges indicate what type of digital asset a topic is about. The possible options are "data", "model", "tool" or more specifically "dataset", "database", "AI", "ML", "Online Tool", "Local Tool".
 
-[![ResearchArea - SSbD](https://img.shields.io/badge/Research_Area-SSbD-yellow?logo=resend&logoColor=yellow)](tags "Research Area = SSbD") The yellow "Research Area" badges indicate the research area a topic is about.
+[![ResearchArea - SSbD](https://img.shields.io/badge/Research_Area-SSbD-yellow?logo=resend&logoColor=yellow)](area_ssbd "Research Area = SSbD") The yellow "Research Area" badges indicate the research area a topic is about.
+
+---
 
 ## Asset - Tool
 
-[![Asset - Tool](https://img.shields.io/badge/Asset--Type-Online_Tool-Red?logo=academia&logoColor=red&color=red)](tags "Asset-Type = Online Tool")
+[![Asset - Tool](https://img.shields.io/badge/Asset--Type-Online_Tool-Red?logo=academia&logoColor=red&color=red)](asset_tool "Asset-Type = Online Tool")
 
 The following topics are tagged as an asset of the type "Tool", "Online Tool" or "Local Tool"
 - **WASP2.1** - [Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities](index#Scientific%20Tool%20Launched:%20WASP%20-%20Warning%20flags,%20design%20Advice%20&%20Screening Priorities "Topic = Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities")
 
+---
+
 ## Research Area - Safe and Sustainable by Design (SSbD)
 
-[![ResearchArea - SSbD](https://img.shields.io/badge/Research_Area-SSbD-yellow?logo=resend&logoColor=yellow)](tags "Research Area = SSbD")
+[![ResearchArea - SSbD](https://img.shields.io/badge/Research_Area-SSbD-yellow?logo=resend&logoColor=yellow)](area_ssbd "Research Area = SSbD")
 
 The following topics are tagged as relevant to [research area "SSbD"](https://www.tno.nl/en/safe-sustainable-by-design/ "Weblink to: TNO's website about Safe and Sustainable by Design"):
 - **WASP2.1** - [Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities](index#Scientific%20Tool%20Launched:%20WASP%20-%20Warning%20flags,%20design%20Advice%20&%20Screening Priorities "Topic = Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities")
+
+---
 

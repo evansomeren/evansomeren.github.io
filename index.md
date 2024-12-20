@@ -16,12 +16,20 @@ Each topic described below will have a title, some badges followed by the conten
 
 ## Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities
 
-[![Asset - Tool](https://img.shields.io/badge/Asset--Type-Tool-Red?logo=academia&logoColor=red&color=red)](https://evansomeren.github.io/tags)
-[![WWWW-WASP](https://img.shields.io/badge/WWW-WASP--Tool-blue?logo=writedotas&logoColor=blue)](https://diamonds.tno.nl/projects/wasp)
-[![WWWW-HARMLESSWASP](https://img.shields.io/badge/WWW-HARMLESS_WASP_Info-blue?logo=writedotas&logoColor=blue)](https://www.harmless-project.eu/launch-of-the-2nd-tool-of-the-harmless-ssbd-decision-support-system)
+[![Asset - Tool](https://img.shields.io/badge/Asset--Type-Tool-Red?logo=academia&logoColor=red&color=red)](https://evansomeren.github.io/tags "AssetIsTool")
+[![WWWW-WASP](https://img.shields.io/badge/WWW-WASP--Tool-blue?logo=writedotas&logoColor=blue)](https://diamonds.tno.nl/projects/wasp "WASP's Homepage on TNO's DIAMONDS platform")
+[![WWWW-HARMLESSWASP](https://img.shields.io/badge/WWW-HARMLESS_WASP_Info-blue?logo=writedotas&logoColor=blue)](https://www.harmless-project.eu/launch-of-the-2nd-tool-of-the-harmless-ssbd-decision-support-system "Information about WASP on the HARMLESS Website")
 
 **WASP** is an online tool to help industry with making products that are **Safe and Sustainable by Design (SSbD)** early in the innovation stages. With only 12 (+3 optional) questions, the user a) gains insight in which areas require specific attention, b) gets advice on how to best change the design and c) gets advice on what assays and guidelines to follow and which descriptors to measure in the subsequent innovation stage.
 
 ![WASP Image!](https://diamonds.tno.nl/storage/projects/wasp/banner_1733816343.png)
 
-- [WASP Homepage](https://diamonds.tno.nl/projects/wasp "WASP's Homepage on TNO's DIAMONDS platform")
+---
+
+## Upcoming Tools
+
+The following tools and services will soon become available
+
+- NEQ1.0 - Nano Exposure Quantifier 1.0 - Tool to predict exposure to nano-materials
+- LIS2.0 - LICARA Innovation Scan 2.0 - An improved version of the LICARA Innovation Scan
+- ART API - Advanced REACH Tool API - A API service for ART 

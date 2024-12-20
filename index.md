@@ -4,7 +4,7 @@ title: Home
 
 ## Welcome to the Research Page of Eugene van Someren
 
-This site is very stripped down to minimal content for GitHub Pages and is not suitable for local develpment - you'll typically add a `.gitignore` for example.
+Here you will find some of the research results we have been working on
 
 Source: [![Eugene - research](https://img.shields.io/static/v1?label=EPvanSomeren&message=Research&color=blue&logo=github)](https://evansomeren.github.io)
 

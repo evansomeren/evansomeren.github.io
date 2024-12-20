@@ -8,8 +8,8 @@ These badges help to give quick indication of the type of topic and often provid
 
 [![GithubPages-Eugene](https://img.shields.io/badge/GithubPages-EPvanSomeren-green?logo=github)](https://evansomeren.github.io) The green "GithubPages" badges with Github icon indicate and link to Github pages and/or git-related pages (e.g. repositories)
 
-[![WWWW-DIAMONDS](https://img.shields.io/badge/WWW-DIAMONDS-blue?logo=writedotas&logoColor=blue)](https://diamonds.tno.nl) The blue "WWW" badges with blue W icon indicate and link to relevant websites (and when clicking the basdge you will be directed to that website).
+[![WWWW-DIAMONDS](https://img.shields.io/badge/WWW-DIAMONDS-blue?logo=writedotas&logoColor=blue)](https://diamonds.tno.nl) The blue "WWW" badges with blue W icon indicate and link to relevant websites (and when clicking the badge you will be directed to that website).
 
-[![Email-Support](https://img.shields.io/badge/Email-DIAMONDS%20Support-white?logo=maildotru&logoColor=white)](mailto:support.diamonds@tno.nl) The white "Email" badges with @ icon link to an email-adress (and when clicking the badge you will open your email application).
+[![Email-Support](https://img.shields.io/badge/Email-DIAMONDS%20Support-white?logo=maildotru&logoColor=white)](mailto:support.diamonds@tno.nl) The white "Email" badges with @ icon link to an email-adress (and when clicking the badge your email application will open to help you sent an email).
 
 [![Asset - Tool](https://img.shields.io/badge/Asset--Type-Tool-Red?logo=academia&logoColor=red&color=red)](https://evansomeren.github.io/tags) The red "Asset" badges indicates what type of digital asset a topic is about. The possible options are "data", "model", "tool" or more specifically "dataset", "database", "AI", "ML", "Online Tool", "Local Tool".

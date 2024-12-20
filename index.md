@@ -3,10 +3,12 @@ title: Home
 ---
 
 ## Welcome to the Research Page of Eugene van Someren
-[![GithubPages-Eugene](https://img.shields.io/badge/GithubPages-EPvanSomeren-blue?logo=github)](https://evansomeren.github.io)
-[![WWW-DIAMONDS](https://img.shields.io/badge/WWW-DIAMONDS-blue?logo=writedotas)](https://diamonds.tno.nl)
+[![GithubPages-Eugene](https://img.shields.io/badge/GithubPages-EPvanSomeren-green?logo=github)](https://evansomeren.github.io)
+[![WWWW-DIAMONDS](https://img.shields.io/badge/WWW-DIAMONDS-blue?logo=writedotas)](https://diamonds.tno.nl)
+[![WWW-Badges](https://img.shields.io/badge/WWW-Badges-green?logo=writedotas)](tags.md)
 
-Here you will find some of the research results we have been working on. A growing portfolio of online scientific tools can be found on TNO's DIAMONDS platform. Each topic will have a title, some badges followed by the content. Badges will either indicate a tag/keyword or provide a usefull link, the [meaning of the badges used on this website is described here](tags.md).
+Here you will find some of the research results we have been working on. A growing portfolio of online scientific tools can be found on TNO's DIAMONDS platform and some of it is just the tip of the iceberg. 
+Each described below topic will have a title, some badges followed by the content. Badges will either indicate a tag/keyword to quickly get an idea of the topic and/or provide a usefull link to discover more. The [meaning of the badge-types used on this website is described in more detail here](tags.md) or click on the badge above. Enjoy the content below and feel free to reach out for more information.
 
 
 ---

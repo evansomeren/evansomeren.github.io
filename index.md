@@ -2,6 +2,8 @@
 title: Home
 ---
 
+<a id="readme-top"></a>
+
 ## Welcome to the Research Page of Eugene van Someren
 [![GithubPages-Eugene](https://img.shields.io/badge/GithubPages-EPvanSomeren-green?logo=github)](https://evansomeren.github.io "Github Page of Eugene P van Someren")
 [![WWWW-DIAMONDS](https://img.shields.io/badge/WWW-DIAMONDS-blue?logo=writedotas&logoColor=blue)](https://diamonds.tno.nl "Weblink to: TNO's DIAMONDS webpage")
@@ -37,3 +39,4 @@ The following tools and services will soon become available
 
 ---
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

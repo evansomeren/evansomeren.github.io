@@ -12,31 +12,16 @@ Here you will find some of the research results we have been working on. A growi
 
 Each topic described below will have a title, some badges followed by the content. Badges will either indicate a tag/keyword to quickly get an idea of the topic and/or provide a usefull link to discover more. The [meaning of the badge-types used on this website is described in more detail here](tags.md) or click on the badge above. Enjoy the content below and feel free to reach out for more information.
 
-[end](index.md#Head8)
 ---
 
 ## Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities
 
 [![Asset - Tool](https://img.shields.io/badge/Asset--Type-Tool-Red?logo=academia&logoColor=red&color=red)](https://evansomeren.github.io/tags)
+[![WWWW-WASP](https://img.shields.io/badge/WWW-WASP-blue?logo=writedotas&logoColor=blue)](https://diamonds.tno.nl/projects/wasp)
+[![WWWW-HARMLESSWASP](https://img.shields.io/badge/WWW-HARMLESS_WASP-blue?logo=writedotas&logoColor=blue)](https://www.harmless-project.eu/launch-of-the-2nd-tool-of-the-harmless-ssbd-decision-support-system)
 
 **WASP** is an online tool to help industry with making products that are **Safe and Sustainable by Design (SSbD)** early in the innovation stages. With only 12 (+3 optional) questions, the user a) gains insight in which areas require specific attention, b) gets advice on how to best change the design and c) gets advice on what assays and guidelines to follow and which descriptors to measure in the subsequent innovation stage.
 
 ![WASP Image!](https://diamonds.tno.nl/storage/projects/wasp/banner_1733816343.png)
 
 - [WASP Homepage](https://diamonds.tno.nl/projects/wasp "WASP's Homepage on TNO's DIAMONDS platform")
-
-## Head1
-
-## Head2
-
-## Head3
-
-## Head4
-
-## Head5
-
-## Head6
-
-## Head7
-
-## Head8

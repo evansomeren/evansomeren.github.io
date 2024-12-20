@@ -18,7 +18,9 @@ Digital assets can be found in different digital forms, referred to as different
 [![Asset - Online Tool](https://img.shields.io/badge/Asset--Type-Online_Tool-Red?logo=academia&logoColor=red&color=red)](asset_tool "Asset-Type = Online Tool")
 [![Asset - Local Tool](https://img.shields.io/badge/Asset--Type-Local_Tool-Red?logo=academia&logoColor=red&color=red)](asset_tool "Asset-Type = Local Tool")
 
-This page is about "Tools" as "Asset-Type". This includes more specifically defined "Online Tools" (tools available via a browser) and "Local Tools" (tools that you install and run on your machine), which are children of the more general concept "Tools". "Tools" are often some "Data" or a model that is augmented with a graphical user interface, such that a user can enter some information or change some settings upon which new information or visualizations are presented back to the user.
+This page is about "Tools" as "Asset-Type". This includes more specifically defined "Online Tools" (tools available via a browser) and "Local Tools" (tools that you install and run on your machine), which are children of the more general concept "Tools". 
+
+"Tools" are often some form of "Data" or a particular model that is augmented with a graphical user interface (GUI), such that a user can enter some information or change some settings upon which new information or visualizations are presented back to the user.
 
 On the main page all topics concerning "Tools", "Online Tools" or "Local Tools" are indicated with one of the three red badges shown above. Clicking on any of these badges will bring you to this webpage.
 

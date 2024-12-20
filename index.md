@@ -3,14 +3,14 @@ title: Home
 ---
 
 ## Welcome to the Research Page of Eugene van Someren
-[![GithubPages-Eugene](https://img.shields.io/badge/GithubPages-EPvanSomeren-green?logo=github)](https://evansomeren.github.io "Eugene's Github Page")
-[![WWWW-DIAMONDS](https://img.shields.io/badge/WWW-DIAMONDS-blue?logo=writedotas&logoColor=blue)](https://diamonds.tno.nl "TNO's DIAMONDS webpage")
-[![WWW-Badges](https://img.shields.io/badge/WWW-Badges-blue?logo=writedotas&logoColor=blue)](tags "Badge Explanation Page")
+[![GithubPages-Eugene](https://img.shields.io/badge/GithubPages-EPvanSomeren-green?logo=github)](https://evansomeren.github.io "Github Page of Eugene P van Someren")
+[![WWWW-DIAMONDS](https://img.shields.io/badge/WWW-DIAMONDS-blue?logo=writedotas&logoColor=blue)](https://diamonds.tno.nl "Weblink to: TNO's DIAMONDS webpage")
+[![WWW-Badges](https://img.shields.io/badge/WWW-Badges-blue?logo=writedotas&logoColor=blue)](tags "Weblink to: Badge Explanation Page")
 [![Email-Support](https://img.shields.io/badge/Email-DIAMONDS%20Support-white?logo=maildotru&logoColor=white)](mailto:support.diamonds@tno.nl "Send an email to DIAMONDS Support")
 
-Here you will find some of the research results we have been working on. A growing portfolio of online scientific tools can be found on [TNO's DIAMONDS platform](https://diamonds.tno.nl) and some of it is just the tip of the iceberg. 
+Here you will find some of the research results we have been working on. A growing portfolio of online scientific tools can be found on [TNO's DIAMONDS platform](https://diamonds.tno.nl "Weblink to: TNO's DIAMONDS webpage") and some of it is just the tip of the iceberg. 
 
-Each topic described below will have a title, some badges followed by the content. Badges will either indicate a tag/keyword to quickly get an idea of the topic and/or provide a usefull link to discover more. The [meaning of the badge-types used on this website is described in more detail here](tags.md) or click on the badge above. Enjoy the content below and feel free to reach out for more information.
+Each topic described below will have a title, some badges followed by the content. Badges will either indicate a tag/keyword to quickly get an idea of the topic and/or provide a usefull link to discover more. The [meaning of the badge-types used on this website is described in more detail here](tags.md "Weblink to: Badge Explanation Page") or click on the badge above. Enjoy the content below and feel free to reach out for more information.
 
 ---
 

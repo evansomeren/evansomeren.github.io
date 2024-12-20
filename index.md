@@ -6,7 +6,7 @@ title: Home
 [![GithubPages-Eugene](https://img.shields.io/badge/GithubPages-EPvanSomeren-blue?logo=github)](https://evansomeren.github.io)
 [![WWW-DIAMONDS](https://img.shields.io/badge/WWW-DIAMONDS-blue?logo=writedotas)](https://diamonds.tno.nl)
 
-Here you will find some of the research results we have been working on. A growing portfolio of online scientific tools can be found on TNO's DIAMONDS platform.
+Here you will find some of the research results we have been working on. A growing portfolio of online scientific tools can be found on TNO's DIAMONDS platform. Each topic will have a title, some badges followed by the content. Badges will either indicate a tag/keyword or provide a usefull link, the [meaning of the badges used on this website is described here](tags.md).
 
 
 ---

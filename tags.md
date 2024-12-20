@@ -27,6 +27,6 @@ The following topics are tagged as an asset of the type "Tool", "Online Tool" or
 
 [![ResearchArea - SSbD](https://img.shields.io/badge/Research_Area-SSbD-yellow?logo=resend&logoColor=yellow)](tags "Research Area = SSbD")
 
-The following topics are tagged as relevant to research area "SSbD".
+The following topics are tagged as relevant to [research area "SSbD"](https://www.tno.nl/en/safe-sustainable-by-design/ "Weblink to: TNO's website about Safe and Sustainable by Design"):
 - **WASP2.1** - [Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities](index#Scientific%20Tool%20Launched:%20WASP%20-%20Warning%20flags,%20design%20Advice%20&%20Screening Priorities "Topic = Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities")
 

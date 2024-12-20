@@ -25,6 +25,6 @@ This page is about "Tools" as "Asset-Type". This includes more specifically defi
 On the main page all topics concerning "Tools", "Online Tools" or "Local Tools" are indicated with one of the three red badges shown above. Clicking on any of these badges will bring you to this webpage.
 
 The following topics are tagged as an asset of the type "Tool", "Online Tool" or "Local Tool"
-- **WASP2.1** - [Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities](index#Scientific%20Tool%20Launched:%20WASP%20-%20Warning%20flags,%20design%20Advice%20&%20Screening Priorities "Topic = Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities")
+- **WASP2.1** - [Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities](index#launch-wasp "Topic = Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities")
 
 ---

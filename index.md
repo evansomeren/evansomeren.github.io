@@ -16,7 +16,7 @@ Each topic described below will have a title, some badges followed by the conten
 
 ## Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities
 
-[![Asset - Online Tool](https://img.shields.io/badge/Asset--Type-Online_Tool-Red?logo=academia&logoColor=red)](https://evansomeren.github.io/tags "AssetIsTool")
+[![Asset - Online Tool](https://img.shields.io/badge/Asset--Type-Online_Tool-red?logo=academia&logoColor=red)](https://evansomeren.github.io/tags "AssetIsTool")
 [![ResearchArea - SSbD](https://img.shields.io/badge/Research_Area-SSbD-yellow?logo=resend&logoColor=yellow)](https://evansomeren.github.io/tags "AssetIsTool")
 [![WWWW-WASP](https://img.shields.io/badge/WWW-WASP--Tool-blue?logo=writedotas&logoColor=blue)](https://diamonds.tno.nl/projects/wasp "WASP's Homepage on TNO's DIAMONDS platform")
 [![WWWW-HARMLESSWASP](https://img.shields.io/badge/WWW-HARMLESS_WASP_Info-blue?logo=writedotas&logoColor=blue)](https://www.harmless-project.eu/launch-of-the-2nd-tool-of-the-harmless-ssbd-decision-support-system "Information about WASP on the HARMLESS Website")

@@ -10,7 +10,7 @@ title: Home
 
 Here you will find some of the research results we have been working on. A growing portfolio of online scientific tools can be found on [TNO's DIAMONDS platform](https://diamonds.tno.nl "Weblink to: TNO's DIAMONDS webpage") and some of it is just the tip of the iceberg. 
 
-Each topic described below will have a title, some badges followed by the content. Badges will either indicate a tag/keyword to quickly get an idea of the topic and/or provide a usefull link to discover more. The [meaning of the badge-types used on this website is described in more detail here](tags.md "Weblink to: Badge Explanation Page") or click on the badge above. Enjoy the content below and feel free to reach out for more information.
+Each topic described below will have a title, some badges followed by the content. Badges will either indicate a tag/keyword to quickly get an idea of the topic and/or provide a usefull link to discover more. The [meaning of the badge-types used on this website is described in more detail here](tags "Weblink to: Badge Explanation Page") or click on the badge above. Enjoy the content below and feel free to reach out for more information.
 
 ---
 

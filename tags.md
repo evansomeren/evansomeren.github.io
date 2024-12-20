@@ -2,6 +2,7 @@
 title: Badges used on Eugene's Personal Research Page
 ---
 
+[Back to Home](index)
 ## The following badges (tags) are used on Eugene's Personal Research Page
 These badges help to give quick indication of the type of topic and often provide useful links to webpages to learn more.
 

@@ -12,4 +12,4 @@ These badges help to give quick indication of the type of topic and often provid
 
 [![Email-Support](https://img.shields.io/badge/Email-DIAMONDS%20Support-white?logo=maildotru&logoColor=white)](mailto:support.diamonds@tno.nl) The white "Email" badges with @ icon link to an email-adress (and when clicking the badge your email application will open to help you sent an email).
 
-[![Asset - Tool](https://img.shields.io/badge/Asset--Type-Tool-Red?logo=academia&logoColor=red&color=red)](https://evansomeren.github.io/tags#Head10) The red "Asset" badges indicates what type of digital asset a topic is about. The possible options are "data", "model", "tool" or more specifically "dataset", "database", "AI", "ML", "Online Tool", "Local Tool".
+[![Asset - Tool](https://img.shields.io/badge/Asset--Type-Tool-Red?logo=academia&logoColor=red&color=red)](index#Head8) The red "Asset" badges indicates what type of digital asset a topic is about. The possible options are "data", "model", "tool" or more specifically "dataset", "database", "AI", "ML", "Online Tool", "Local Tool".

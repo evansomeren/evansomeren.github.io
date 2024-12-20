@@ -6,7 +6,7 @@ title: Home
 [![GithubPages-Eugene](https://img.shields.io/badge/GithubPages-EPvanSomeren-green?logo=github)](https://evansomeren.github.io "Github Page of Eugene P van Someren")
 [![WWWW-DIAMONDS](https://img.shields.io/badge/WWW-DIAMONDS-blue?logo=writedotas&logoColor=blue)](https://diamonds.tno.nl "Weblink to: TNO's DIAMONDS webpage")
 [![WWW-Badges](https://img.shields.io/badge/WWW-Badges-blue?logo=writedotas&logoColor=blue)](tags "Weblink to: Badge Explanation Page")
-[![Email-Support](https://img.shields.io/badge/Email-DIAMONDS%20Support-white?logo=maildotru&logoColor=white)](mailto:support.diamonds@tno.nl "Send an email to DIAMONDS Support")
+[![Email-Support](https://img.shields.io/badge/Email-DIAMONDS%20Support-white?logo=maildotru&logoColor=white)](mailto:support.diamonds@tno.nl "Send an email to: DIAMONDS Support")
 
 Here you will find some of the research results we have been working on. A growing portfolio of online scientific tools can be found on [TNO's DIAMONDS platform](https://diamonds.tno.nl "Weblink to: TNO's DIAMONDS webpage") and some of it is just the tip of the iceberg. 
 
@@ -18,8 +18,8 @@ Each topic described below will have a title, some badges followed by the conten
 
 [![Asset - Online Tool](https://img.shields.io/badge/Asset--Type-Online_Tool-red?logo=academia&logoColor=red)](https://evansomeren.github.io/tags "Asset-Type = Online Tool")
 [![ResearchArea - SSbD](https://img.shields.io/badge/Research_Area-SSbD-yellow?logo=resend&logoColor=yellow)](https://evansomeren.github.io/tags "Research Area = SSbD")
-[![WWWW-WASP](https://img.shields.io/badge/WWW-WASP--Tool-blue?logo=writedotas&logoColor=blue)](https://diamonds.tno.nl/projects/wasp "WASP's Homepage on TNO's DIAMONDS platform")
-[![WWWW-HARMLESSWASP](https://img.shields.io/badge/WWW-HARMLESS_WASP_Info-blue?logo=writedotas&logoColor=blue)](https://www.harmless-project.eu/launch-of-the-2nd-tool-of-the-harmless-ssbd-decision-support-system "Information about WASP on the HARMLESS Website")
+[![WWWW-WASP](https://img.shields.io/badge/WWW-WASP--Tool-blue?logo=writedotas&logoColor=blue)](https://diamonds.tno.nl/projects/wasp "Weblink to: WASP's Homepage on TNO's DIAMONDS platform")
+[![WWWW-HARMLESSWASP](https://img.shields.io/badge/WWW-HARMLESS_WASP_Info-blue?logo=writedotas&logoColor=blue)](https://www.harmless-project.eu/launch-of-the-2nd-tool-of-the-harmless-ssbd-decision-support-system "Weblink to: Information about WASP on the HARMLESS Website")
 
 **WASP** is an online tool to help industry with making products that are **Safe and Sustainable by Design (SSbD)** early in the innovation stages. With only 12 (+3 optional) questions, the user a) gains insight in which areas require specific attention, b) gets advice on how to best change the design and c) gets advice on what assays and guidelines to follow and which descriptors to measure in the subsequent innovation stage.
 

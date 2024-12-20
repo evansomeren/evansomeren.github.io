@@ -17,8 +17,8 @@ Each topic described below will have a title, some badges followed by the conten
 ## Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities
 
 [![Asset - Tool](https://img.shields.io/badge/Asset--Type-Tool-Red?logo=academia&logoColor=red&color=red)](https://evansomeren.github.io/tags)
-[![WWWW-WASP](https://img.shields.io/badge/WWW-WASP-blue?logo=writedotas&logoColor=blue)](https://diamonds.tno.nl/projects/wasp)
-[![WWWW-HARMLESSWASP](https://img.shields.io/badge/WWW-HARMLESS_WASP-blue?logo=writedotas&logoColor=blue)](https://www.harmless-project.eu/launch-of-the-2nd-tool-of-the-harmless-ssbd-decision-support-system)
+[![WWWW-WASP](https://img.shields.io/badge/WWW-WASP--Tool-blue?logo=writedotas&logoColor=blue)](https://diamonds.tno.nl/projects/wasp)
+[![WWWW-HARMLESSWASP](https://img.shields.io/badge/WWW-HARMLESS_WASP_Info-blue?logo=writedotas&logoColor=blue)](https://www.harmless-project.eu/launch-of-the-2nd-tool-of-the-harmless-ssbd-decision-support-system)
 
 **WASP** is an online tool to help industry with making products that are **Safe and Sustainable by Design (SSbD)** early in the innovation stages. With only 12 (+3 optional) questions, the user a) gains insight in which areas require specific attention, b) gets advice on how to best change the design and c) gets advice on what assays and guidelines to follow and which descriptors to measure in the subsequent innovation stage.
 

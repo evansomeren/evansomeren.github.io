@@ -1,8 +1,8 @@
-<a id="readme-top"></a>
-
 ---
 title: Home
 ---
+
+<a id="index-top"></a>
 
 ## Welcome to the Research Page of Eugene van Someren
 [![GithubPages-Eugene](https://img.shields.io/badge/GithubPages-EPvanSomeren-green?logo=github)](https://evansomeren.github.io "Github Page of Eugene P van Someren")
@@ -16,7 +16,7 @@ Each topic described below will have a title, some badges followed by the conten
 
 ---
 
-<a id="LaunchWASP"></a>
+<a id="launch-wasp"></a>
 
 ## Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities
 
@@ -31,7 +31,7 @@ Each topic described below will have a title, some badges followed by the conten
 
 ---
 
-<a id="UpcomingTools"></a>
+<a id="upcoming-tools"></a>
 
 ## Upcoming Tools
 

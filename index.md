@@ -7,7 +7,6 @@ title: Home
 This site is very stripped down to minimal content for GitHub Pages and is not suitable for local develpment - you'll typically add a `.gitignore` for example.
 
 Source: [![Eugene - research](https://img.shields.io/static/v1?label=EPvanSomeren&message=Research&color=blue&logo=github)](https://evansomeren.github.io)
-![Static Badge](https://img.shields.io/badge/A-B-C)
 
 ---
 

@@ -3,8 +3,8 @@ title: Home
 ---
 
 ## Welcome to the Research Page of Eugene van Someren
-[![Author - Eugene!](https://img.shields.io/badge/Author-EPvanSomeren-blue&logo=github&color=blue)](https://evansomeren.github.io)
-[![WWW - DIAMONDS!](https://img.shields.io/badge/WWW-DIAMONDS-blue&logo=writedotas&color=blue)](https://diamonds.tno.nl)
+[![Author - Eugene](https://img.shields.io/badge/Author-EPvanSomeren-blue&logo=github&color=blue)](https://evansomeren.github.io)
+[![WWW - DIAMONDS](https://img.shields.io/badge/WWW-DIAMONDS-blue&logo=writedotas&color=blue)](https://diamonds.tno.nl)
 ![Static Badge](https://img.shields.io/badge/WWW-DIAMONDS-blue?logo=writedotas)
 
 Here you will find some of the research results we have been working on. A growing portfolio of online scientific tools can be found on TNO's DIAMONDS platform.

@@ -8,6 +8,8 @@ title: Asset-Type is Tool
 
 Digital assets can be found in different digital forms, referred to as different "Asset-Types". Think about publications & reports, datasets and databases, models, scripts and algorithms as well as online or local tools. 
 
+[![Asset - Tool](https://img.shields.io/badge/Asset--Type-Tool-Red?logo=academia&logoColor=red&color=red)](asset_tool "Asset-Type = Tool") The red "Asset-Type" badges indicate what type of digital asset a topic is about. The possible options are "Data", "Model", "Tool" or more specifically "dataset", "database", "AI", "ML", "Online Tool", "Local Tool".
+
 ---
 
 ## Asset-Type = Tool

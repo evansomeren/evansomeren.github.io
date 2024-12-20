@@ -21,7 +21,7 @@ Each topic described below will have a title, some badges followed by the conten
 [![WWWW-WASP](https://img.shields.io/badge/WWW-WASP--Tool-blue?logo=writedotas&logoColor=blue)](https://diamonds.tno.nl/projects/wasp "Weblink to: WASP's Homepage on TNO's DIAMONDS platform")
 [![WWWW-HARMLESSWASP](https://img.shields.io/badge/WWW-HARMLESS_WASP_Info-blue?logo=writedotas&logoColor=blue)](https://www.harmless-project.eu/launch-of-the-2nd-tool-of-the-harmless-ssbd-decision-support-system "Weblink to: Information about WASP on the HARMLESS Website")
 
-**WASP** is an online tool to help industry with making products that are **Safe and Sustainable by Design (SSbD)** early in the innovation stages. With only 12 (+3 optional) questions, the user a) gains insight in which areas require specific attention, b) gets advice on how to best change the design and c) gets advice on what assays and guidelines to follow and which descriptors to measure in the subsequent innovation stage.
+**[WASP](https://diamonds.tno.nl/projects/wasp "Weblink to: WASP's Homepage on TNO's DIAMONDS platform")** is an online tool to help industry with making products that are **Safe and Sustainable by Design (SSbD)** early in the innovation stages. With only 12 (+3 optional) questions, the user a) gains insight in which areas require specific attention, b) gets advice on how to best change the design and c) gets advice on what assays and guidelines to follow and which descriptors to measure in the subsequent innovation stage.
 
 ![WASP Image!](https://diamonds.tno.nl/storage/projects/wasp/banner_1733816343.png)
 

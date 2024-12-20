@@ -12,13 +12,11 @@ Research and their resulting digital assets can be aimed at different uses and t
 
 ## Research Area = Safe and Sustainable by Design (SSbD)
 
-[![Asset - Tool](https://img.shields.io/badge/Asset--Type-Tool-Red?logo=academia&logoColor=red&color=red)](asset_tool "Asset-Type = Tool")
-[![Asset - Online Tool](https://img.shields.io/badge/Asset--Type-Online_Tool-Red?logo=academia&logoColor=red&color=red)](asset_tool "Asset-Type = Online Tool")
-[![Asset - Local Tool](https://img.shields.io/badge/Asset--Type-Local_Tool-Red?logo=academia&logoColor=red&color=red)](asset_tool "Asset-Type = Local Tool")
+[![ResearchArea - SSbD](https://img.shields.io/badge/Research_Area-SSbD-yellow?logo=resend&logoColor=yellow)](area_ssbd "Research Area = SSbD")
 
 This page is about "Safe and Sustainable by Design" as "Research Area". On the main page all topics concerning "SSbD" are indicated with the yellow badge shown above. Clicking on this badge will bring you to this webpage.
 
-The following topics are tagged as an asset of the type "Tool", "Online Tool" or "Local Tool"
+The following topics are tagged as relevant to [research area "SSbD"](https://www.tno.nl/en/safe-sustainable-by-design/ "Weblink to: TNO's website about Safe and Sustainable by Design"):
 - **WASP2.1** - [Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities](index#Scientific%20Tool%20Launched:%20WASP%20-%20Warning%20flags,%20design%20Advice%20&%20Screening Priorities "Topic = Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities")
-
+  
 ---

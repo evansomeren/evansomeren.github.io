@@ -16,6 +16,20 @@ Each topic described below will have a title, some badges followed by the conten
 
 ---
 
+<a id="publication-hypoxiamodel"></a>
+
+## Article published: Model development and validation for classifying hypoxia in military aircrew using ECG and skin temperature
+
+[![Asset - Publication](https://img.shields.io/badge/Asset--Type-Publication-red?logo=academia&logoColor=red)](asset_publication "Asset-Type = Publication")
+[![ResearchArea - AI](https://img.shields.io/badge/Research_Area-AI-yellow?logo=resend&logoColor=yellow)](https://evansomeren.github.io/area_ai "Research Area = AI")
+[![WWW-Hypoxia](https://img.shields.io/badge/WWW-Hypoxia_Article-blue?logo=writedotas&logoColor=blue)](https://jmai.amegroups.org/article/view/10326/html "Weblink to: Publication of JMAI website")
+[![WWW-HPMA](https://img.shields.io/badge/WWW-HPMA-blue?logo=writedotas&logoColor=blue)](https://diamonds.tno.nl/projects/hpma "Weblink to: HPMA project on DIAMONDS website")
+
+**[Hypoxia Model paper](https://jmai.amegroups.org/article/view/10326/html "Weblink to: Publication of JMAI website")**
+For classifying hypoxic conditions of military aircrew members, this study found a high feature importance of electrocardiogram (ECG)-derived heart-rate variability, ECG-derived respiratory rate intervals and skin temperature. Support vector classification performs best with an accuracy of 90% on a balanced dataset.
+
+---
+
 <a id="launch-wasp"></a>
 
 ## Scientific Tool Launched: WASP - Warning flags, design Advice & Screening Priorities

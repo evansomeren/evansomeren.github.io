@@ -28,6 +28,7 @@ Each topic described below will have a title, some badges followed by the conten
 **[Hypoxia Model paper](https://jmai.amegroups.org/article/view/10326/html "Weblink to: Publication of JMAI website")**
 For classifying hypoxic conditions of military aircrew members, this study found a high feature importance of electrocardiogram (ECG)-derived heart-rate variability, ECG-derived respiratory rate intervals and skin temperature. Support vector classification performs best with an accuracy of 90% on a balanced dataset.
 
+![Hypoxia Image!](https://cdn.amegroups.cn/static/magazine_modules/imgRender/dist/index.html?imgSource=https://cdn.amegroups.cn/journals/jlpm/files/journals/33/articles/10326/public/10326-PB11-4758-R1.jpg)
 ---
 
 <a id="launch-wasp"></a>

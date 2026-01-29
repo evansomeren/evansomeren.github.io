@@ -16,6 +16,21 @@ Each topic described below will have a title, some badges followed by the conten
 
 ---
 
+<a id="launch-esri"></a>
+
+## Scientific Tool Launched: ESRI - Early Stage Responsible Innovation
+
+[![Asset - Online Tool](https://img.shields.io/badge/Asset--Type-Online_Tool-red?logo=academia&logoColor=red)](asset_tool "Asset-Type = Online Tool")
+[![ResearchArea - SSbD](https://img.shields.io/badge/Research_Area-SSbD-yellow?logo=resend&logoColor=yellow)](https://evansomeren.github.io/area_ssbd "Research Area = SSbD")
+[![WWWW-ESRI](https://img.shields.io/badge/WWW-ESRI--Tool-blue?logo=writedotas&logoColor=blue)](https://diamonds.tno.nl/projects/esri "Weblink to: ESRI's Homepage on TNO's DIAMONDS platform")
+[![WWWW-NANOCENTREESRI](https://img.shields.io/badge/WWW-NANOCENTRE_ESRI_Info-blue?logo=writedotas&logoColor=blue)](https://www.nanocentre.nl/nl/actualities/esri-een-praktisch-hulpmiddel-voor-verantwoord-innoveren "Weblink to: Information about WASP on the HARMLESS Website")
+
+**[ESRI](https://diamonds.tno.nl/projects/esri "Weblink to: ESRI's Homepage on TNO's DIAMONDS platform")** is an online assessment tool that helps companies quickly evaluate the safety and sustainability of new products and technologies from the very beginning of the design process. It aims to support responsible decision-making before significant investments are made or designs are fixed.
+
+![ESRI Image!](https://diamonds.tno.nl/storage/projects/esri/banner_1769437206.png)
+
+---
+
 <a id="publication-hypoxiamodel"></a>
 
 ## Article published: Model development and validation for classifying hypoxia in military aircrew using ECG and skin temperature
